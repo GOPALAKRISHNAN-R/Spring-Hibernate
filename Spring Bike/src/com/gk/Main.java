@@ -6,7 +6,7 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 /**
  * Simple Java program for Spring framework
  * @author R.GOPALAKRISHNAN
- * @author gopalakrishnanr94@gmail.com
+ * @author rgopalakrishnanmca@gmail.com
  * @author www.rgopalakrishnanmca.simplesite.com
  **/
 
